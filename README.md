@@ -15,5 +15,23 @@ To analyse coffee sales data in order to:
 5. Who are the top 5 customers by total sales?
 6. Does having a loyalty card influence purchasing behaviour?
 
-Interactive Dashboard <a href
+Interactive Dashboard
+<a href= "https://github.com/ShingaiMhene/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.xlsx"> Download Dashboard</a>
 ## Process
+1. Used XLOOKUP to map and retrieve:
+Coffee Type
+Roast Type
+Unit Price
+2. Created a calculated column:
+Sales = Quantity × Unit Price
+3. Cleaned and standardised data:
+4. Removed abbreviations:
+Roast types (L, D, M → Light, Dark, Medium)
+Coffee types (Rob, Liberica, Excelsa → full names using IF function)
+5. Applied formatting:
+Standardised date formats for time-series analysis
+Formatted product sizes for consistency
+6. Created pivot tables and charts for
+Total Sales
+Sales by Country
+Customer Revenue Rankings
