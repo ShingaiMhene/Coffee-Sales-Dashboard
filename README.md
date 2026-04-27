@@ -6,3 +6,4 @@ To analyse coffee sales data in order to:
 3. Evaluate product performance by roast type and size
 4. Support strategic marketing and customer retention
 ### Dataset
+<a href="https://github.com/ShingaiMhene/Coffee-Sales-Dashboard/blob/main/coffeeOrdersData.xlsx">Dataset</a>
