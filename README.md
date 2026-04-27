@@ -14,3 +14,6 @@ To analyse coffee sales data in order to:
 4. Which countries generate the highest revenue?
 5. Who are the top 5 customers by total sales?
 6. Does having a loyalty card influence purchasing behaviour?
+
+Interactive Dashboard <a href
+## Process
