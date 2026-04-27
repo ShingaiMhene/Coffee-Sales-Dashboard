@@ -35,3 +35,20 @@ Formatted product sizes for consistency
 Total Sales
 Sales by Country
 Customer Revenue Rankings
+
+### Dashboard
+<img width="1281" height="728" alt="Coffee Sales" src="https://github.com/user-attachments/assets/b54722a7-5c0d-4e89-8ef8-2092030b2124" />
+
+
+
+## Key Insights
+Sales show fluctuations over time, indicating seasonal or demand variability
+Arabica and Robusta are among the most frequently purchased coffee types
+The United States generates the highest revenue, significantly outperforming other regions
+A small group of customers contributes significantly to revenue (top 5 customers)
+Product preferences vary by roast type and size, influencing purchasing patterns
+## Recommendations
+Focus marketing efforts on high-performing regions (e.g., United States)
+Develop loyalty programs to retain top customers
+Optimise inventory based on popular roast types and sizes
+Leverage seasonal trends to plan promotions and campaigns
